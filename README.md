@@ -1,4 +1,4 @@
-# Minecraft TOols
+# Minecraft Tools
 This repo just includes some helpful tools for Minecraft.
 
 # World Conversion
