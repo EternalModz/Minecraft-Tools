@@ -9,7 +9,7 @@ This tool can be found on the web and it also has an app version.
 It supports Java, Bedrock, PS3 & Xbox 360 Conversion.
 You can find it here on the [Microsoft Store](https://apps.microsoft.com/detail/9pc9mfx9qcxs?) or on the [Website](https://je2be.app)
 
-**2 Chunker**
+**2. Chunker**
 This tool allows you to convert Minecraft Java and Bedrock worlds. Its managed by the Hive.
 You can access Chunker by going to its [Website](https://chunker.app)
 
