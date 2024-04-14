@@ -26,11 +26,7 @@ The tool can be accessed from its [Website](https://mconverter.eu/convert/mcworl
 An open-source solution to world conversion for Java and Bedrock. It includes Windows, macOS and Linux support.
 You can download it from the [Website](https://www.amuletmc.com/)
 
-**6. J2CE (Open-Source)**
-J2CE is an open-source converter which supports Ps3, Xbox 360, Java & Bedrock. Its also managed by my friend, CADIndie.
-You can find it on [GitHub](https://github.com/CADIndie/J2CE)
-
-**7. Project Lodestone**
+**6. Project Lodestone**
 THIS TOOL HAS NOT BEEN RELEASED YET AS IT IS STILL IN DEVELOPMENT.
 A universal Minecraft world converter which will be open-source. Supporting the PS3, Xbox 360, Wii U, Java, Bedrock and more!
 
