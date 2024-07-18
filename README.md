@@ -15,7 +15,7 @@ You can access Chunker by going to its [Website](https://chunker.app)
 
 **3. MCC ToolChest**
 While yes, this is an old project, it still supports basic world conversion on worlds from before 1.13. It supoorts Java, PS3, Xbox 360 and Wii U.
-There is an updated version called MCC ToolChest BE but that one only supports Java and Bedrock. This program does an OK job at converting worlds but at lesat it works. 
+There is an updated version called MCC ToolChest BE but that one only supports Java and Bedrock. This program does an OK job at converting worlds but at least it works. 
 You can download MCC ToolChest from its [Website](https://mcctoolchest.weebly.com/)
 
 **4. MConverter**
