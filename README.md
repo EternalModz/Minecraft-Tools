@@ -26,8 +26,6 @@ The tool can be accessed from its [Website](https://mconverter.eu/convert/mcworl
 An open-source solution to world conversion for Java and Bedrock. It includes Windows, macOS and Linux support.
 You can download it from the [Website](https://www.amuletmc.com/)
 
-**6. Project Lodestone**
-THIS TOOL HAS NOT BEEN RELEASED YET AS IT IS STILL IN DEVELOPMENT.
-A universal Minecraft world converter which will be open-source. Supporting the PS3, Xbox 360, Wii U, Java, Bedrock and more!
+**6. Project Lodestone** This project is still a work in progress — it can't be used just yet! Project Lodestone will let you convert and edit any Minecraft world on any version or platform. That includes Java Edition, Bedrock Edition, and Legacy Console Editions like PS3, PS Vita, PS4, Xbox 360, Xbox One, Wii U, and Nintendo Switch. Other versions, like the Pi Edition and 3DS Edition, will also be supported, along with many more! Feel free to look at the [Project Lodestone](https://github.com/team-lodestone/Documentation) GitHub page for more information.
 
 This list will be updated soon with more options!
